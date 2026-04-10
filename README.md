@@ -115,6 +115,11 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 
 - Built the web app and integrated designs from Figma. 
 
+### **ETHGlobal Cannes** | 2025  
+**Project:** [POAPrivacy](https://ethglobal.com/showcase/poaprivacy-ykk5a)  
+🏆 **Finalist** — ETHGlobal Cannes 2025  
+- Also **ENS — Most Creative Use Case (2nd place)**.
+
 ## Education
 
 ### Bachelor in Applied Ecology (Czech University of Life Sciences)
