@@ -105,6 +105,13 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 - **Stack:** Next.js, TypeScript, React, Tailwind CSS, TanStack Query; **Privy** for login and a stable public identity for registry flows; POAP Collectors & Minting APIs.
 - **Passkeys (WebAuthn):** Biometric Passkeys sign a fixed message; HKDF with ERC-5564 salts derives spending/viewing keys and meta-address via **@noble/secp256k1** — keys derived on demand, not stored.
 
+### **ETHOnline** | 2025  
+**Project:** [eepy cat](https://ethglobal.com/showcase/eepy-cat-kqvdi) — *Proof of Sleep (privacy-first)*  
+🏆 **Curvegrid — Best use of MultiBaas**
+
+- Privacy-first mobile app (Expo / React Native, Circom): gyroscope-based sleep scoring stays on-device; Groth16 ZK proofs attest “still enough to sleep” without revealing raw sensor data.
+- On-chain verification via Curvegrid MultiBaas with Solidity contracts on Base; mechanism-design dashboard (Next.js, Google Genkit / Gemini) to simulate tokenomics and user archetypes.
+
 ### **EthGlobal Bangkok** | November 2024  
 **Project:** [d/acc homomorphic](https://ethglobal.com/showcase/d-acc-homomorphic-2o6wn)  
 🏆 **Won sponsor prize from Linea:** $1000  
