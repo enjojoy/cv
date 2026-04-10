@@ -12,17 +12,31 @@
 </a><a href="https://www.linkedin.com/in/albinanikiforova/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#FF6500" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></a>
 
 
-I'm a Web3-focused Software Developer with 3+ years experience in web development, specializing in TypeScript, React, and Next.js. 
+Developer Relations Engineer and AI agent builder focused on agentic infrastructure, developer tooling, and making AI systems accessible to technical audiences. I build things that help developers go from zero to working in minutes — SDKs, reference implementations, integrations, and the documentation that ties it all together.
 
-Aside from coding and participating in hackathons, I love organizing events, participating in pop-up cities (MegaZu, Builder Monastery), reading books, tweeting and participating in educational programs such as [Kernel](https://www.kernel.community/). 
-
-Right now I'm learning smart contracts development with Foundry. 
-
-I don’t hesitate to take responsibility for tasks that I have never done before, I enjoy learning by doing and I constantly push myself to grow and expand my skill set beyond my comfort zone.
-
-I'm based in Prague, Czech Republic and open for relocation or remote work. 
+Currently working at the intersection of AI agents and real-world deployment: building the infrastructure layer that lets AI agents transact, coordinate, and operate autonomously.
 
 ## Employment
+
+
+### **Masumi Network** | April 2025 - Present
+Lead DevRel / Software Engineer — building the infrastructure layer that lets AI agents transact, coordinate, and operate autonomously.
+
+**Developer Relations & Tooling**
+- Served as the primary technical interface between developers, product, and engineering — translating real developer needs into tooling, APIs, and documentation.
+- Created and maintained the Masumi ***Python*** package (***pip***), providing robust abstractions and a developer-friendly API that reduced Time To First Success (TTFS) to single-digit minutes.
+- Built an ***n8n*** integration enabling no-code/low-code workflows with Masumi for non-developer audiences.
+- Authored and maintained developer documentation sites, significantly improving onboarding and discoverability.
+- Designed end-to-end demos and example applications to accelerate developer onboarding.
+- Produced technical tutorials and walkthrough videos; represented the company as a hackathon judge and mentor.
+- Engaged directly with the developer community via Discord, GitHub, and Telegram.
+- Led a small team including interns and working students as direct reports.
+
+**AI Agents Built**
+- **Nori** — a multi-channel DevRel agent for the Masumi ecosystem (Masumi, Sokosumi, Kodosumi, pip-masumi); handles developer integration questions, debugs issues, monitors live ecosystem metrics, runs semantic search across all Masumi documentation and GitHub, and generates technical content (integration guides, API comparisons, ecosystem reports); runs across email, Twitter, Discord, Telegram, and GitHub.
+- **Xavi** — an autonomous video production agent that runs a full 3-step AI pipeline solo: multi-camera sync and transcription (***faster-whisper***), silence and retake removal, color correction, branded ***Remotion*** animations (***React***), and final composition — no human touches a timeline.
+- **MasumiForge** — an OpenClaw skill that scaffolds and deploys fully functional Masumi agents from a plain-language description, eliminating boilerplate entirely.
+- **Google Trends Research Agent** — a live production agent on the Sokosumi marketplace demonstrating the full Masumi payment and execution lifecycle; serves as the primary reference implementation for the ecosystem.
 
 ### **[Trezor](https://trezor.io/trezor-suite)** | August 2024 - March 2025
 Contributed to crypto assets management features such as send, swap and others in Trezor Suite - web and desktop application.
