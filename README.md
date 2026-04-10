@@ -19,7 +19,7 @@ Currently working at the intersection of AI agents and real-world deployment: bu
 ## Employment
 
 
-### **Masumi Network** | April 2025 - Present
+### **[Masumi Network](https://www.masumi.network/)** | April 2025 - Present
 Lead DevRel / Software Engineer — building the infrastructure layer that lets AI agents transact, coordinate, and operate autonomously.
 
 **Developer Relations & Tooling**
