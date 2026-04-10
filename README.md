@@ -79,7 +79,6 @@ Beyond development, I actively participated in marketing and educational initiat
 ## Hobby/Side Projects
 
 ### **[Think2Earn](https://www.think2earn.com/)** | 2024 - Ongoing  
-_(New landing page in progress)_  
 - Developed a prototype web application that integrates **BCI (Brain-Computer Interface)** technology for biometric data collection and incentivizes users to contribute their data for training an **AI model**. Users are rewarded on-chain through a **smart contract deployed on Linea**.  
 - Tech used: ***Dynamic login widget*** for user authentication, ***The Graph*** for querying the smart contract, and ***Tailwind CSS*** for styling. The app is deployed on ***Vercel***, with ***Python*** handling specific data processing tasks and ***Solidity*** used to implement the smart contract.
 
