@@ -105,7 +105,7 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 - **Stack:** Next.js, TypeScript, React, Tailwind CSS, TanStack Query; **Privy** for login and a stable public identity for registry flows; POAP Collectors & Minting APIs.
 - **Passkeys (WebAuthn):** Biometric Passkeys sign a fixed message; HKDF with ERC-5564 salts derives spending/viewing keys and meta-address via **@noble/secp256k1** — keys derived on demand, not stored.
 
-### **ETHOnline** | 2025  
+### **ETHGlobal Buenos Aires, Argentina** | 2025  
 **Project:** [eepy cat](https://ethglobal.com/showcase/eepy-cat-kqvdi) — *Proof of Sleep (privacy-first)*  
 🏆 **Curvegrid — Best use of MultiBaas**
 
