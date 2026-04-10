@@ -82,6 +82,11 @@ Beyond development, I actively participated in marketing and educational initiat
 - Developed a prototype web application that integrates **BCI (Brain-Computer Interface)** technology for biometric data collection and incentivizes users to contribute their data for training an **AI model**. Users are rewarded on-chain through a **smart contract deployed on Linea**.  
 - Tech used: ***Dynamic login widget*** for user authentication, ***The Graph*** for querying the smart contract, and ***Tailwind CSS*** for styling. The app is deployed on ***Vercel***, with ***Python*** handling specific data processing tasks and ***Solidity*** used to implement the smart contract.
 
+### **[LearnByTeaching.ai](https://www.learnbyteaching.ai/)** | Ongoing  
+- Study tool grounded in the Feynman technique and learning-by-teaching: explain topics to AI “students” that challenge and question you until concepts stick; active recall, flashcards, quizzes, and mind maps from your notes (PWA).
+
+### **[High Agency DevRel](https://highagencydevrel.com/)** | Ongoing  
+- Developer relations practice focused on intentional developer journeys—bridging product and decentralized communities for Web3 (strategy, content, and hands-on programs).
 
 ### **[GoFest](https://www.gofest.app/)** | 2023  
 _(Feel free to log in with Spotify and see what festivals it will find for you!)_  
