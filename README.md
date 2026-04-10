@@ -138,5 +138,6 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 
 - English (proficient)
 - Czech (proficient)
+- German (intermediate)
 - Russian (native)
 
