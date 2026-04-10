@@ -93,6 +93,18 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 
 ## Hackathons Participation
 
+### **ETHGlobal Cannes** | 2025  
+**Project:** [POAPrivacy](https://ethglobal.com/showcase/poaprivacy-ykk5a) — *Private POAPs with stealth addresses*  
+🏆 **Finalist** — ETHGlobal Cannes 2025 · **ENS — Most Creative Use Case (2nd place)**
+
+- **Problem:** Default POAPs create a public on-chain link between an identity (e.g. ENS) and attendance at a place/time — a privacy and safety risk.
+- **Solution (PPOAP):** Mint each POAP to a one-time stealth address so the chain only sees a transfer to a fresh, unlinkable account; the recipient alone can discover and control it (stealth meta-address + ERC-5564 announcements + viewing-key scan).
+- **Setup & registry (ERC-6538):** User derives spending/viewing keys and registers a stealth meta-address in the public registry so issuers can resolve ENS → meta-address for lookup.
+- **Mint (ERC-5564):** Issuer computes a unique stealth address from the meta-address and an ephemeral key, mints the ERC-721 via POAP APIs, and publishes an Announcement on the ERC-5564 announcer so the recipient can find the transfer.
+- **Discovery:** Wallet scans Announcement events (view tag filters noise), derives the stealth private key from the spending key, and imports it to control the POAP — breaking the link to the public identity.
+- **Stack:** Next.js, TypeScript, React, Tailwind CSS, TanStack Query; **Privy** for login and a stable public identity for registry flows; POAP Collectors & Minting APIs.
+- **Passkeys (WebAuthn):** Biometric Passkeys sign a fixed message; HKDF with ERC-5564 salts derives spending/viewing keys and meta-address via **@noble/secp256k1** — keys derived on demand, not stored.
+
 ### **EthGlobal Bangkok** | November 2024  
 **Project:** [d/acc homomorphic](https://ethglobal.com/showcase/d-acc-homomorphic-2o6wn)  
 🏆 **Won sponsor prize from Linea:** $1000  
@@ -113,18 +125,6 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 **Project:** [Smartrental](https://devfolio.co/projects/smartrental-9eeb)
 
 - Built the web app and integrated designs from Figma. 
-
-### **ETHGlobal Cannes** | 2025  
-**Project:** [POAPrivacy](https://ethglobal.com/showcase/poaprivacy-ykk5a) — *Private POAPs with stealth addresses*  
-🏆 **Finalist** — ETHGlobal Cannes 2025 · **ENS — Most Creative Use Case (2nd place)**
-
-- **Problem:** Default POAPs create a public on-chain link between an identity (e.g. ENS) and attendance at a place/time — a privacy and safety risk.
-- **Solution (PPOAP):** Mint each POAP to a one-time stealth address so the chain only sees a transfer to a fresh, unlinkable account; the recipient alone can discover and control it (stealth meta-address + ERC-5564 announcements + viewing-key scan).
-- **Setup & registry (ERC-6538):** User derives spending/viewing keys and registers a stealth meta-address in the public registry so issuers can resolve ENS → meta-address for lookup.
-- **Mint (ERC-5564):** Issuer computes a unique stealth address from the meta-address and an ephemeral key, mints the ERC-721 via POAP APIs, and publishes an Announcement on the ERC-5564 announcer so the recipient can find the transfer.
-- **Discovery:** Wallet scans Announcement events (view tag filters noise), derives the stealth private key from the spending key, and imports it to control the POAP — breaking the link to the public identity.
-- **Stack:** Next.js, TypeScript, React, Tailwind CSS, TanStack Query; **Privy** for login and a stable public identity for registry flows; POAP Collectors & Minting APIs.
-- **Passkeys (WebAuthn):** Biometric Passkeys sign a fixed message; HKDF with ERC-5564 salts derives spending/viewing keys and meta-address via **@noble/secp256k1** — keys derived on demand, not stored.
 
 ## Education
 
