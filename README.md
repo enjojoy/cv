@@ -97,12 +97,12 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 ### **EthGlobal Bangkok** | November 2024  
 **Project:** [d/acc homomorphic](https://ethglobal.com/showcase/d-acc-homomorphic-2o6wn)  
 🏆 **Won sponsor prize from Linea:** $1000  
-- as described above in Think2Earn
+- as described above in [Think2Earn](https://www.think2earn.com/)
 
 ### **Builder Monastery Ericeira, Portugal** | October 2024  
-**Project:** Think2Earn  
+**Project:** [Think2Earn](https://www.think2earn.com/)  
 🏆 **Won a prize:** $200  
-- as described above in Think2Earn
+- as described above in [Think2Earn](https://www.think2earn.com/)
 
 ### **EthGlobal Brussels, Belgium** | July 2024  
 **Project:** [SaveSquad](https://ethglobal.com/showcase/savesquad-nqntz)
