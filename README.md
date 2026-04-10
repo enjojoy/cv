@@ -131,7 +131,7 @@ _(Feel free to log in with Spotify and see what festivals it will find for you!)
 ### Bachelor in Applied Ecology (Czech University of Life Sciences)
 
 - Specialized in GIS, LiDAR technologies, and statistical analysis.
-- 	Conducted bachelor’s thesis research on vegetation changes in Krkonoše National Park, developing Canopy Height Models and analyzing vegetation characteristics in black grouse habitats.
+- Conducted [bachelor’s thesis](https://theses.cz/id/xkfp82/) research on vegetation changes in Krkonoše National Park, developing Canopy Height Models and analyzing vegetation characteristics in black grouse habitats.
 -	Utilized ***LASTools***, ***R***, and ***ArcGIS Pro*** to process ***LiDAR*** data and assess environmental changes over time.
 
 ## Languages 
